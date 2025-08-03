@@ -87,3 +87,33 @@ User created successfully with limited access policy applied.
 
 ## Video Demonstration
 [Loom Video Link] https://www.loom.com/share/87ac1118301c4c9b9f6209228ccddb07
+
+
+
+
+
+# AWS VPC and Subnet Configuration
+
+## Objective
+To create a custom Virtual Private Cloud (VPC) and define a subnet within that VPC.
+
+## Tools Used
+- AWS Management Console
+
+## Steps
+1. Created a VPC named `custom-vpc`
+2. Defined a subnet named `custom-subnet` in an availability zone
+3. Used CIDR block `10.0.1.0/24` for subnet
+4. Verified networking layout in the dashboard
+
+## Skills Practiced
+- Network segmentation
+- Subnet configuration
+- Custom VPC design
+
+## Outcome
+Successfully created isolated VPC and configured subnet.
+
+## Video Demonstration
+[Loom Video Link] https://www.loom.com/share/ec17cf2e41984bdb86f362f2c778b942
+
