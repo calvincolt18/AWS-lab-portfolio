@@ -29,3 +29,34 @@ This lab demonstrates how to launch and connect to a virtual server (EC2 instanc
 
 ## Author
 Calvin Alexander
+
+
+# AWS S3 Bucket and Object Upload Lab
+
+## Overview
+This lab demonstrates how to create an AWS S3 bucket and upload an object (file) into that bucket, simulating real-world cloud storage practices.
+
+## Tools Used
+- AWS Management Console
+- AWS S3
+- Loom (for video recording)
+
+## Steps Performed
+1. Logged into AWS Console.
+2. Navigated to S3 service.
+3. Clicked “Create bucket”.
+4. Entered a unique bucket name (e.g., `calvin-s3-demo-bucket`).
+5. Left default settings and disabled public access.
+6. Created the bucket successfully.
+7. Opened the bucket and uploaded a sample `.txt` file.
+8. Verified the file was stored and listed within the bucket.
+
+## Key Concepts
+- Object Storage
+- Bucket Permissions
+- S3 Access Management
+- Cloud Data Storage Fundamentals
+
+## Loom Video Walkthrough
+📹 [Click here to view the S3 Bucket Lab on Loom] https://www.loom.com/share/2304b19422e2456fbd0f1c3186074c23
+
