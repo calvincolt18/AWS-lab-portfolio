@@ -60,3 +60,30 @@ This lab demonstrates how to create an AWS S3 bucket and upload an object (file)
 ## Loom Video Walkthrough
 📹 [Click here to view the S3 Bucket Lab on Loom] https://www.loom.com/share/2304b19422e2456fbd0f1c3186074c23
 
+
+
+# AWS IAM User Creation and Permission Assignment
+
+## Objective
+To create a new IAM user with programmatic access and assign a basic permission policy.
+
+## Tools Used
+- AWS Management Console
+
+## Steps
+1. Navigated to the IAM service from the AWS Console
+2. Created a new IAM user named `labuser1`
+3. Enabled programmatic access
+4. Attached the `AmazonS3ReadOnlyAccess` policy
+5. Viewed and verified user permissions after creation
+
+## Skills Practiced
+- Identity management
+- Policy attachment
+- Access key management
+
+## Outcome
+User created successfully with limited access policy applied.
+
+## Video Demonstration
+[Loom Video Link] https://www.loom.com/share/87ac1118301c4c9b9f6209228ccddb07
