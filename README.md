@@ -117,3 +117,31 @@ Successfully created isolated VPC and configured subnet.
 ## Video Demonstration
 [Loom Video Link] https://www.loom.com/share/ec17cf2e41984bdb86f362f2c778b942
 
+
+
+
+# AWS IAM Multi-Factor Authentication Setup
+
+## Objective
+To configure Multi-Factor Authentication (MFA) for enhanced user account security.
+
+## Tools Used
+- AWS Console
+- Google Authenticator or Authy
+
+## Steps
+1. Accessed IAM and selected user `labuser1`
+2. Managed MFA under security credentials
+3. Configured Virtual MFA using an authenticator app
+4. Successfully linked the MFA device with the AWS IAM user
+
+## Skills Practiced
+- Identity protection
+- MFA configuration
+- AWS IAM user hardening
+
+## Outcome
+Enhanced user security through multi-factor authentication.
+
+## Video Demonstration
+[Loom Video Link]  https://www.loom.com/share/9da6a417e9024356bc26df3d74c65170
